@@ -5,6 +5,7 @@
 //  Created by Albina Kuleta on 26.2.24.
 //
 
+import SwiftData
 import SwiftUI
 
 @main
@@ -13,5 +14,6 @@ struct iTourApp: App {
         WindowGroup {
             ContentView()
         }
+        
     }
 }
