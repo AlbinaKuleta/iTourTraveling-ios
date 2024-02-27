@@ -1,4 +1,5 @@
-About iTour app
+# About iTour app
+
 The project we’ll be making is called iTour, and is a travel app that helps sightseers plan their vacation sightseeing.
 Users will be able to add a list of places they want to visit on their vacation, sort and search those destinations, then also add individual sights inside each place.
 We have built this application in cooperation with xcode 15 and we have used the ios 17 simulator that after the execution of this code and after the runnig has been succesful,
