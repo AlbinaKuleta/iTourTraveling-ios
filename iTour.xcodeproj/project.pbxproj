@@ -11,6 +11,7 @@
 		5445931D2B8D227000C4F770 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5445931C2B8D227000C4F770 /* ContentView.swift */; };
 		5445931F2B8D228500C4F770 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5445931E2B8D228500C4F770 /* Assets.xcassets */; };
 		544593222B8D228500C4F770 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 544593212B8D228500C4F770 /* Preview Assets.xcassets */; };
+		54A6793D2B8E8CC100D56F12 /* DestinationListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A6793C2B8E8CC100D56F12 /* DestinationListingView.swift */; };
 		EB952DDD2B8E8FF900A2B41E /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB952DDC2B8E8FF900A2B41E /* Destination.swift */; };
 		EB952DDF2B8E98FB00A2B41E /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB952DDE2B8E98FB00A2B41E /* EditDestinationView.swift */; };
 		EB952DE12B8E9A1C00A2B41E /* Sight.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB952DE02B8E9A1C00A2B41E /* Sight.swift */; };
@@ -22,6 +23,7 @@
 		5445931C2B8D227000C4F770 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5445931E2B8D228500C4F770 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		544593212B8D228500C4F770 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		54A6793C2B8E8CC100D56F12 /* DestinationListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListingView.swift; sourceTree = "<group>"; };
 		EB952DDC2B8E8FF900A2B41E /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		EB952DDE2B8E98FB00A2B41E /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 		EB952DE02B8E9A1C00A2B41E /* Sight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sight.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 		544593192B8D227000C4F770 /* iTour */ = {
 			isa = PBXGroup;
 			children = (
+				54A6793C2B8E8CC100D56F12 /* DestinationListingView.swift */,
 				EB952DDC2B8E8FF900A2B41E /* Destination.swift */,
 				EB952DDE2B8E98FB00A2B41E /* EditDestinationView.swift */,
 				EB952DE02B8E9A1C00A2B41E /* Sight.swift */,
@@ -150,6 +153,7 @@
 				5445931B2B8D227000C4F770 /* iTourApp.swift in Sources */,
 				EB952DDD2B8E8FF900A2B41E /* Destination.swift in Sources */,
 				EB952DE12B8E9A1C00A2B41E /* Sight.swift in Sources */,
+				54A6793D2B8E8CC100D56F12 /* DestinationListingView.swift in Sources */,
 				EB952DDF2B8E98FB00A2B41E /* EditDestinationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
