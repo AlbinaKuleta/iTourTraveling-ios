@@ -42,6 +42,16 @@ struct EditDestinationView: View {
         .navigationTitle("Edit Destination")
         .navigationBarTitleDisplayMode(.inline)
     }
+    
+    func addSight() {
+        guard newSightName.isEmpty == false else { return }
+        
+        withAnimation {
+            let sight = Sight(name: newSightName)
+            destination.sights.append(sight)
+            newSightName = ""
+        }
+    }
 }
 
 
