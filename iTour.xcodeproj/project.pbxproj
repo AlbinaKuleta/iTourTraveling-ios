@@ -59,12 +59,12 @@
 		544593192B8D227000C4F770 /* iTour */ = {
 			isa = PBXGroup;
 			children = (
-				54A6793C2B8E8CC100D56F12 /* DestinationListingView.swift */,
-				EB952DDC2B8E8FF900A2B41E /* Destination.swift */,
-				EB952DDE2B8E98FB00A2B41E /* EditDestinationView.swift */,
-				EB952DE02B8E9A1C00A2B41E /* Sight.swift */,
 				5445931A2B8D227000C4F770 /* iTourApp.swift */,
 				5445931C2B8D227000C4F770 /* ContentView.swift */,
+				54A6793C2B8E8CC100D56F12 /* DestinationListingView.swift */,
+				EB952DDE2B8E98FB00A2B41E /* EditDestinationView.swift */,
+				EB952DDC2B8E8FF900A2B41E /* Destination.swift */,
+				EB952DE02B8E9A1C00A2B41E /* Sight.swift */,
 				5445931E2B8D228500C4F770 /* Assets.xcassets */,
 				544593202B8D228500C4F770 /* Preview Content */,
 			);
